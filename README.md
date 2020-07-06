@@ -1,4 +1,3 @@
-The database consists of customers purchases
 
 # Stage 1
 Identify unique individuals in database
