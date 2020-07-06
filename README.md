@@ -1,3 +1,3 @@
 README
 
-# The database consists of customers purchases
+The database consists of customers purchases
