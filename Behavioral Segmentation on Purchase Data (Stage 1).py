@@ -40,6 +40,8 @@ get_id_2.columns
 
 
 # Getting unique values for each variable
+# It would be better to create a dictionary with column names as keys, and unique values as values
+# But as far as I've written this code while I had little experience in data manipulation, I didn't come up with this idea that time
 for i in range(len(get_id_2.columns)):
     print(get_id_2.columns[i], get_id_2[get_id_2.columns[i]].unique())
 
